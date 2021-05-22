@@ -1,0 +1,84 @@
+body {
+    background: url(https://i0.wp.com/www.weddingsutra.com/wp-content/feeding-india-pic2.jpg?resize=916%2C423&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    margin-top: 470px;
+    box-sizing: border-box;
+    background-color: #24262b;
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col {
+    width: 33%;
+    padding: 15px;
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    border-bottom: red 3px bold;
+}
+
+.footer-col ul li a:hover {
+    font-size: 15px;
+}
+
+.footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50px;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .social-links a:hover {
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+#login {
+    background-color: yellow;
+    border-radius: 20px;
+    color: black;
+    font-style: bold;
+    font-weight: bold;
+}
+
+#bs-example-navbar-collapse-1 {
+    font-size: 20px;
+    color: white;
+}
+
+#bs-example-navbar-collapse-1 a:hover {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    background-color: rgb(94, 235, 7);
+}
+
+#brand {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#abus {
+    font-size: 20px;
+    color: rgb(50, 74, 168, )
+}
